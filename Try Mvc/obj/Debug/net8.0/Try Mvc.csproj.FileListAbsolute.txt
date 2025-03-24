@@ -28,3 +28,4 @@ E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\refint\Tr
 E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.pdb
 E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.genruntimeconfig.cache
 E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\ref\Try Mvc.dll
+e:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.sourcelink.json

@@ -12,3 +12,4 @@ E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\refin
 E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.pdb
 E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.genruntimeconfig.cache
 E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\ref\game domino.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.sourcelink.json

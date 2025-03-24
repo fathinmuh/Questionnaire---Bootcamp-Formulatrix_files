@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj": {}
+    "e:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj": {}
   },
   "projects": {
-    "E:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj": {
+    "e:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj",
+        "projectUniqueName": "e:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj",
         "projectName": "Try Mvc",
-        "projectPath": "E:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj",
+        "projectPath": "e:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\Try Mvc.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\obj\\",
+        "outputPath": "e:\\Questionnaire - Bootcamp Formulatrix_files\\Try Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
