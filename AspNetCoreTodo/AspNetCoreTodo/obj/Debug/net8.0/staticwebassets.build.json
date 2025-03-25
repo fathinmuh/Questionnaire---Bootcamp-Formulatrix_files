@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OQWvbnIp7Pqe8nIDKbhzJDBxJTGWgfrR4DTm8rdhLRc=",
+  "Hash": "UUaU5zHJtNyuvfOR5/SD6Bwy1Eu856Svngiz1k16FBE=",
   "Source": "AspNetCoreTodo",
   "BasePath": "_content/AspNetCoreTodo",
   "Mode": "Default",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.13\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspNetCoreTodo.styles.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspNetCoreTodo.styles.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AspNetCoreTodo",
       "RelativePath": "AspNetCoreTodo.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspNetCoreTodo.styles.css"
+      "OriginalItemSpec": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspNetCoreTodo.styles.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspNetCoreTodo.bundle.scp.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspNetCoreTodo.bundle.scp.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AspNetCoreTodo",
       "RelativePath": "AspNetCoreTodo.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,10 +1192,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspNetCoreTodo.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspNetCoreTodo.bundle.scp.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\css\\site.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1214,7 +1214,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\favicon.ico",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1233,7 +1233,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\js\\site.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1252,7 +1252,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1271,7 +1271,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1290,7 +1290,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1309,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1328,7 +1328,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1347,7 +1347,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1366,7 +1366,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1385,7 +1385,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1404,7 +1404,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1423,7 +1423,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1442,7 +1442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1461,7 +1461,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1480,7 +1480,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1499,7 +1499,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1518,7 +1518,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1537,7 +1537,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1556,7 +1556,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1575,7 +1575,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1594,7 +1594,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1613,7 +1613,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1632,7 +1632,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1651,7 +1651,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1670,7 +1670,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1689,7 +1689,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1708,7 +1708,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1727,7 +1727,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1746,7 +1746,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1765,7 +1765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1784,7 +1784,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1803,7 +1803,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1822,7 +1822,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1841,7 +1841,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1860,7 +1860,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1879,7 +1879,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1898,7 +1898,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1917,7 +1917,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1936,7 +1936,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1955,7 +1955,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1974,7 +1974,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -1993,7 +1993,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2012,7 +2012,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2031,7 +2031,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2050,7 +2050,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2069,7 +2069,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2088,7 +2088,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2107,7 +2107,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2126,7 +2126,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2145,7 +2145,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2164,7 +2164,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2183,7 +2183,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2202,7 +2202,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2221,7 +2221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2240,7 +2240,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2259,7 +2259,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2278,7 +2278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2297,7 +2297,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",
@@ -2316,7 +2316,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "e:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AspNetCoreTodo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Questionnaire - Bootcamp Formulatrix_files\\AspNetCoreTodo\\AspNetCoreTodo\\wwwroot\\",

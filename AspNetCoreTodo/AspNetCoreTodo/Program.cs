@@ -19,7 +19,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddMvc();
 
 // Menambahkan layanan singleton
-builder.Services.AddSingleton<ITodoItemService, FakeTodoItemService>();
+builder.Services.AddScoped<ITodoItemService, TodoItemService>();
 
 var app = builder.Build();
 

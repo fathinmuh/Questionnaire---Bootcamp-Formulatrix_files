@@ -1,4 +1,15 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿$(document).ready(function()	{
+    //	Wire	up	all	of	the	checkboxes	to	run	markCompleted()
+    $('.done-checkbox').on('click',	function(e)	{
+        markCompleted(e.target);
+    });
+ });
+ function	markCompleted(checkbox)	{
+    checkbox.disabled	=	true;
 
-// Write your JavaScript code.
+    var	row	=	checkbox.closest('tr');
+    $(row).addClass('done');
+    
+    var	form	=	checkbox.closest('form');
+    form.submit();
+ }
