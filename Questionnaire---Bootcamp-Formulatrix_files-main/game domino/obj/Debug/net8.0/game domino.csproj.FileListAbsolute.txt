@@ -1,0 +1,15 @@
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.GeneratedMSBuildEditorConfig.editorconfig
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.AssemblyInfoInputs.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.AssemblyInfo.cs
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.csproj.CoreCompileInputs.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\bin\Debug\net8.0\game domino.exe
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\bin\Debug\net8.0\game domino.deps.json
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\bin\Debug\net8.0\game domino.runtimeconfig.json
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\bin\Debug\net8.0\game domino.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\bin\Debug\net8.0\game domino.pdb
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\refint\game domino.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.pdb
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.genruntimeconfig.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\ref\game domino.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\game domino\obj\Debug\net8.0\game domino.sourcelink.json

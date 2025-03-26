@@ -1,0 +1,31 @@
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\appsettings.Development.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\appsettings.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\Try Mvc.staticwebassets.runtime.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\Try Mvc.exe
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\Try Mvc.deps.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\Try Mvc.runtimeconfig.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\Try Mvc.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\bin\Debug\net8.0\Try Mvc.pdb
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.AssemblyInfoInputs.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.AssemblyInfo.cs
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.csproj.CoreCompileInputs.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.MvcApplicationPartsAssemblyInfo.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.RazorAssemblyInfo.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.RazorAssemblyInfo.cs
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\staticwebassets.build.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\staticwebassets.development.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\staticwebassets\msbuild.Try Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.Try Mvc.props
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Try Mvc.props
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Try Mvc.props
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\scopedcss\bundle\Try Mvc.styles.css
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\scopedcss\projectbundle\Try Mvc.bundle.scp.css
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\refint\Try Mvc.dll
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.pdb
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.genruntimeconfig.cache
+E:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\ref\Try Mvc.dll
+e:\Questionnaire - Bootcamp Formulatrix_files\Try Mvc\obj\Debug\net8.0\Try Mvc.sourcelink.json
